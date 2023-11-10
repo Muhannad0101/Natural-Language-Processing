@@ -4,10 +4,14 @@ Here I am posting versions of different Notebooks regarding NLP with different d
 ###  Disaster tweets
 - Users tweets to announce emergencies, Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
+file : https://github.com/Muhannad0101/Natural-Language-Processing/tree/main/NLP%20with%20Disaster%20Tweets
 
 ### E-Commerce Clothing Reviews
 
+file : https://github.com/Muhannad0101/Natural-Language-Processing/tree/main/E-Commerce%20Clothing%20Reviews
+
 - Context
+
 This is a Women’s Clothing E-Commerce dataset revolving around the reviews written by customers. Its nine supportive features offer a great environment to parse out the text through its multiple dimensions. Because this is real commercial data, it has been anonymized, and references to the company in the review text and body have been replaced with “retailer”.
 
 - Content
