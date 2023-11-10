@@ -1,4 +1,4 @@
-![output13](https://github.com/Muhannad0101/Natural-Language-Processing/assets/102443619/87780710-7d3e-406e-bbe3-d00dc04b7b46)# Natural-Language-Processing
+# Natural-Language-Processing
 Here I am posting versions of different Notebooks regarding NLP with different dataset
 
 ###  Disaster tweets
@@ -39,7 +39,9 @@ Class Name: Categorical name of the product class name.
 ![output4](https://github.com/Muhannad0101/Natural-Language-Processing/assets/102443619/dcedcd57-a9e4-4b93-9074-0a0f4e0709bb)
 
 ### LSTM Model result
+![output13](https://github.com/Muhannad0101/Natural-Language-Processing/assets/102443619/c52bb508-a164-486a-8f43-f36f67299823)
+
 ![Uploading out![output15](https://github.com/Muhannad0101/Natural-Language-Processing/assets/102443619/68ebc469-4108-449d-a974-1f0a71bf0351)
+
 ![output14](https://github.com/Muhannad0101/Natural-Language-Processing/assets/102443619/1b3e61f9-3770-47f7-8f2e-85f4f6338f4e)
-put13.png…]()
 
