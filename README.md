@@ -1,7 +1,7 @@
 # Natural-Language-Processing
 Here I am posting versions of different Notebooks regarding NLP with different dataset
 
-###  Disaster tweets
+###  NLP with Disaster Tweets
 - Users tweets to announce emergencies, Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
 file : https://github.com/Muhannad0101/Natural-Language-Processing/tree/main/NLP%20with%20Disaster%20Tweets
